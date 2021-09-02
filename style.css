@@ -1,0 +1,27 @@
+body{
+    background-image: url(images/bg4.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.bg-color{
+    background-color: rgba(228, 228, 228, 0.918);
+    border: 2px solid rgba(228, 228, 228, 0.918) ;
+   border-radius: 2px;
+    height: 100%;
+}
+
+
+.photo{
+    height: 70%;
+}
+
+#spinner{
+    display:none;
+
+}
+.card-body{
+    background-color: rgba(228, 228, 228, 0.918);
+    border-radius: 2px;
+    border: 2px solid rgba(228, 228, 228, 0.918) ;
+}
